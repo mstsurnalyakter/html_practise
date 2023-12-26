@@ -11,4 +11,9 @@
 
  - basic structure of HTML
  - Inside head tag
- 
+ - comments
+
+
+ # Typography
+
+ -
