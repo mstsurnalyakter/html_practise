@@ -14,6 +14,7 @@
  - comments
 
 
- # Typography
+ ## Typography
 
- -
+ - Headings, Horizontal rule, line break
+- Paragraph
