@@ -22,3 +22,9 @@
 - Entity, symbol, icons
 
 ## Chapter 3: List, Link, Images, frame , media video
+
+- List -> ordered, unordered list
+- Link
+- Image
+- frames
+- media - audio, video
