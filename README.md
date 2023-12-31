@@ -19,3 +19,4 @@
  - Headings, Horizontal rule, line break
 - Paragraph
 - Text formatting tags - strong, em, mark, sub, sup, i etc.
+- Entity, symbol, icons
